@@ -1,1 +1,1 @@
-# Who-wabts-to-be-a-millioner-game-JAVA-
+# Who-wants-to-be-a-millioner-game-JAVA-
